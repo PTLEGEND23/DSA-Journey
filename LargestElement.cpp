@@ -6,7 +6,7 @@ int main()
 {
     int n;
     cin>>n;
-    vector <int> arr(n);
+    vector <int> arr;
     for(int i=0;i<n;i++)
     {
         int num;
